@@ -1,0 +1,15 @@
+<site>
+  <theme file="page.thm" id="1" dir="redTheme" name="redTheme">
+    <content name="footer_left" id="9">footer1.html</content>
+    <content name="footer_right" id="10">footer2.html</content>
+  </theme>
+  <page id="welcome" name="Welcome">
+    <content id="welcome" name="main">welcome.html</content>
+  </page>
+  <page id="programbenefits" name="Program Benefits">
+    <content id="programbenefits" name="main">programbenefits.html</content>
+  </page>
+  <page id="whygermany" name="Why Germany?">
+    <content id="whygermany" name="main">whygermany.html</content>
+  </page>
+</site> 
